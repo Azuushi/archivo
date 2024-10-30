@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "edad": 25,
+      "ciudad": "Madrid",
+      "hobbies": ["fútbol", "videojuegos", "leer"],
+      "empleo": {
+        "empresa": "Tech Solutions",
+        "puesto": "Desarrollador",
+        "años_experiencia": 3
+      }
+    },
+    {
+      "id": 2,
+      "nombre": "Ana",
+      "edad": 30,
+      "ciudad": "Barcelona",
+      "hobbies": ["pintura", "fotografía"],
+      "empleo": {
+        "empresa": "Creative Design",
+        "puesto": "Diseñadora Gráfica",
+        "años_experiencia": 5
+      }
+    },
+    {
+      "id": 3,
+      "nombre": "Luis",
+      "edad": 28,
+      "ciudad": "Valencia",
+      "hobbies": ["correr", "cocina", "cine"],
+      "empleo": {
+        "empresa": "Foodies Inc.",
+        "puesto": "Chef",
+        "años_experiencia": 4
+      }
+    },
+    {
+      "id": 4,
+      "nombre": "María",
+      "edad": 22,
+      "ciudad": "Sevilla",
+      "hobbies": ["escalar", "música"],
+      "empleo": {
+        "empresa": "Adventure World",
+        "puesto": "Guía de Turismo",
+        "años_experiencia": 1
+      }
+    },
+    {
+      "id": 5,
+      "nombre": "Carlos",
+      "edad": 35,
+      "ciudad": "Bilbao",
+      "hobbies": ["pesca", "ajedrez"],
+      "empleo": {
+        "empresa": "Smart Solutions",
+        "puesto": "Ingeniero de Software",
+        "años_experiencia": 7
+      },
+      "contacto": {
+        "telefono": "123-456-7890",
+        "email": "carlos@smartsolutions.com"
+      }
+    }
+  ]
+  
